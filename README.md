@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # byte_bank_version_two
 
 Nova aplicação do aplicativo do ByteBank
@@ -18,3 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # bytebank_no_two
 >>>>>>> a3481b789f3c257c410f461de04dad793f484629
+=======
+# bytebank_no_two
+>>>>>>> 239faf6718c5384e90672fe3954cb6fdf4383c78
